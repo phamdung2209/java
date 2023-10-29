@@ -1,0 +1,1 @@
+## Some basic knowledge of java
